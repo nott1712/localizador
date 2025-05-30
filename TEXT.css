@@ -1,0 +1,32 @@
+body{
+    font-family: Georgania, "Times New Roman";
+    Time,serifi;
+color: maroon;
+background-color: #800000;
+
+ul.navbar {
+    list-style-type: nome;
+    padding: 4;
+    margin: 4;
+    position: absolute;
+    top: 2em;
+    left: 1em;
+    width: 9em;
+}
+H1{
+ font-family: Helvetica,Geneva,Arial,;
+    SunSans-Regular, sans-serif}
+ul.navbar li{
+    background: white;
+    margin: 0.5ew 0;
+    padding: 0.3em;
+    border-right: 1ew solid black;
+ul.navbar a{
+    text-decoration: none}
+a:link{
+    color:blue}
+a:visited{
+    color:purple}
+    address{
+    marning-top: 1ew;
+}
